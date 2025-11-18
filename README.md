@@ -11,3 +11,9 @@
 ## Используемые инструменты в работе:
 1. **SQL** - группировки GROUP BY, агрегирующие функции (MAX, SUM, COUNT), CTE, перцентили (PERCENTILE_CONT), распределение клиентов по группам с помощью оператора CASE, CROSS JOIN
 2. **Metabase** - для отображения основных метрик и построения дашборда
+
+Ссылка на отчет:
+https://docs.google.com/document/d/1_Gop5n-DmjCJwYLlbX67xlpwsN8WLUXWB8YWWRpX7Mc/edit?pli=1&tab=t.0
+
+Ссылка на дашборд:
+https://metabase.simulative.ru/dashboard/665-dashbord-rfm-analiz-aptechnoj-se?%25D0%25B0%25D0%25BF%25D1%2582%25D0%25B5%25D0%25BA%25D0%25B0=&%25D0%25B4%25D0%25B0%25D1%2582%25D0%25B0=
